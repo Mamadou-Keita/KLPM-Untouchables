@@ -13,8 +13,9 @@ Purpose: Crop Classification problem. We have 4 classes for classification:
 
 # Preprocessing-data
 
-Step 1: Statistical the data => Imbalance data 
-Step 2: Balance data
+
+> Step 1: Statistical the data => Imbalance data 
+> Step 2: Balance data
 
 # Model
 
