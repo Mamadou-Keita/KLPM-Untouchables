@@ -11,11 +11,13 @@ Purpose: Crop Classification problem. We have 4 classes for classification:
 ![image](https://user-images.githubusercontent.com/73902346/174478096-cc584174-0f77-485b-9d74-50a2751d9da4.png)
 
 
-1) Preprocessing-data: 
+# Preprocessing-data
+
 Step 1: Statistical the data => Imbalance data 
 Step 2: Balance data
 
-2) Model: 
+# Model
+
 - Environment: on Google Colab environment
 - Library: geopandas, rasterio, libpysal, contextily, mapclassify,etc
       https://pypi.org/project/rasterio/
