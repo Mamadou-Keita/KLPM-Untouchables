@@ -1,4 +1,4 @@
-**AI &amp; ROBOTICS HACKATHON 2022**
+**AI &amp; ROBOTICS HACKATHON 2022 - 18-19/6/2022**
 
 **GROUP:** _KLPM-Untouchables_
 
