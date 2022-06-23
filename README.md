@@ -42,7 +42,7 @@
 
 > Step 1: Split into 20% for validation and 80% for training 
 
-> Step 2: Select model: HyperResNet34 with CBAM block => get train accuracy and loss accuracy: ~95%
+> Step 2: Select model: HyperResNet34 with CBAM block => get train accuracy and validation accuracy: ~95%
 
 >   Accuracy: 97.583 | Jaccards: 0.954 | F1 Score: 0.976
 
