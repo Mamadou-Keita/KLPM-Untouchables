@@ -44,7 +44,7 @@
 
 > Step 2: Select model: HyperResNet34 with CBAM block => get train accuracy and loss accuracy: ~95%
 
->  Accuracy: 96.361 | Jaccards: 0.932 | F1 Score: 0.964
+>   Accuracy: 97.583 | Jaccards: 0.954 | F1 Score: 0.976
 
 ### Testing: 
 
